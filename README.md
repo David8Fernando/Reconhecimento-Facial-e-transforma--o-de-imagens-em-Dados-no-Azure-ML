@@ -51,3 +51,6 @@ A API Análise de Imagem pode detectar texto em imagens e gerar um fluxo de cara
 O recurso de legendas de imagem permite que você crie descrições curtas e informativas para as imagens que você envia para a API de Análise de Imagem. As legendas de imagem podem tornar suas imagens mais compreensíveis e acessíveis, especialmente para pessoas que usam tecnologias assistivas, como leitores de tela.
 
 ![Img](./img/add-captions-to-image.gif)
+
+### Entre em contato:
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/David8Fernando/)](https://github.com/David8Fernando/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira)
